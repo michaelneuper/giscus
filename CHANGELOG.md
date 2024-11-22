@@ -7,6 +7,60 @@ writing, this is a rolling-release project without any meaningful versioning
 whatsoever. Tags/releases may be created for the sole purpose of documenting
 major updates to the project.
 
+## 2024-06-08
+
+### Changed
+
+- Fixed CSS injection vulnerability in MathJax renderer
+  (https://news.ycombinator.com/item?id=40615653).
+
+## 2024-04-22
+
+### Added
+
+- Add Serbo-Croatian localization
+  ([#1365](https://github.com/giscus/giscus/pull/1365)).
+
+## 2024-02-11
+
+### Added
+
+- Add Cross-Origin Resource Policy support
+  ([#1309](https://github.com/giscus/giscus/pull/1309)).
+
+## 2024-02-10
+
+### Added
+
+- Add Uzbek localization
+  ([#1303](https://github.com/giscus/giscus/pull/1303)).
+
+## 2024-01-06
+
+### Added
+
+- Add Danish localization
+  ([#1277](https://github.com/giscus/giscus/pull/1277)).
+
+## 2023-12-03
+
+### Added
+
+- Add Hungarian localization
+  ([#1231](https://github.com/giscus/giscus/pull/1231)).
+
+### Changed
+
+- Enforce origin checks on app homepage
+  ([#1254](https://github.com/giscus/giscus/pull/1254)).
+
+## 2023-11-25
+
+### Fixed
+
+- Fix bottom border getting cropped off on Windows
+  ([#1245](https://github.com/giscus/giscus/pull/1245)).
+
 ## 2023-10-29
 
 ### Added

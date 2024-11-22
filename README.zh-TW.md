@@ -4,7 +4,7 @@
 
 - [開放原始碼][repo]。🌏
 - 無追蹤，無廣告，永久免費。📡 🚫
-- 無需資料庫。全部資料均儲存在 GitHub Discussions 中。:octocat:
+- 無需資料庫。全部資料均儲存在 GitHub Discussions 中。 :octocat:
 - 支援[自訂佈景主題][creating-custom-themes]！🌗
 - 支援[多語言][multiple-languages]。🌐
 - [高度彈性][advanced-usage]。🔧
@@ -80,6 +80,7 @@ giscus 載入時，會使用 [GitHub Discussions 搜尋 API][search-api] 根據�
 
 - [Arabic (العربية)](README.ar.md)
 - [Català](README.ca.md)
+- [Dansk](README.da.md)
 - [Deutsch](README.de.md)
 - [English](README.md)
 - [Esperanto](README.eo.md)
@@ -87,7 +88,9 @@ giscus 載入時，會使用 [GitHub Discussions 搜尋 API][search-api] 根據�
 - [Persian (فارسی)](README.fa.md)
 - [Français](README.fr.md)
 - [Ελληνικά](README.gr.md)
+- [Srpsko-Hrvatski (BCMS)](README.hbs.md)
 - [עברית](README.he.md)
+- [Magyar](README.hu.md)
 - [Indonesia](README.id.md)
 - [Italiano](README.it.md)
 - [日本語](README.ja.md)
@@ -102,6 +105,7 @@ giscus 載入時，會使用 [GitHub Discussions 搜尋 API][search-api] 根據�
 - [Türkçe](README.tr.md)
 - [Tiếng Việt](README.vi.md)
 - [Українська](README.uk.md)
+- [O'zbek](README.uz.md)
 - [简体中文](README.zh-CN.md)
 - [繁體中文](README.zh-TW.md)
 
