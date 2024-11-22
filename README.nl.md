@@ -80,6 +80,7 @@ Deze readme is ook beschikbaar in het:
 
 - [Arabic (العربية)](README.ar.md)
 - [Català](README.ca.md)
+- [Dansk](README.da.md)
 - [Deutsch](README.de.md)
 - [English](README.md)
 - [Esperanto](README.eo.md)
@@ -87,7 +88,9 @@ Deze readme is ook beschikbaar in het:
 - [Persian (فارسی)](README.fa.md)
 - [Français](README.fr.md)
 - [Ελληνικά](README.gr.md)
+- [Srpsko-Hrvatski (BCMS)](README.hbs.md)
 - [עברית](README.he.md)
+- [Magyar](README.hu.md)
 - [Indonesia](README.id.md)
 - [Italiano](README.it.md)
 - [日本語](README.ja.md)
@@ -102,6 +105,7 @@ Deze readme is ook beschikbaar in het:
 - [Türkçe](README.tr.md)
 - [Tiếng Việt](README.vi.md)
 - [Українська](README.uk.md)
+- [O'zbek](README.uz.md)
 - [简体中文](README.zh-CN.md)
 - [繁體中文](README.zh-TW.md)
 
